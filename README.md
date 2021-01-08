@@ -20,7 +20,7 @@
  ## 注： 要下载2个必须的文件
  
  1. [epoch_39.pth](https://pan.baidu.com/s/1XmzjvCgOrrVv0NWTt4Fm3g)
- 2. [car_540000.weights](https://pan.baidu.com/s/1XmzjvCgOrrVv0NWTt4Fm3g)
+ 2. [car_540000.weights](https://pan.baidu.com/s/1HwTCVGTmdqkeLnqnxfNL8Q)
  
  替换掉源码目录中名字相同的这两个文件的对应的空文件
  
